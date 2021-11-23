@@ -6,4 +6,6 @@ substrate is a modular framework for building blockchains. Substrate provides es
 
 setting up environment for rust and WASM.
 -  Add rust nightly and nightly WASM targest.
-    
+
+# Adding pallets to Runtime
+pallets are collection of useful modules for adding functionalities of our blockchain.
